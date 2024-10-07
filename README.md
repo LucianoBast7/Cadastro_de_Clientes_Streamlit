@@ -38,12 +38,7 @@ Este é um projeto simples em Python utilizando **Streamlit** para criar uma int
 2. **Acesseo Repositório do Projeto**:
 
    ```bash
-   cd cadastro-clientes
-
-3. **Instale as Dependências**:
-
-   ```bash
-   pip install -r requirements.txt
+   cd Cadastro_de_Clientes_Streamlit
 
 4. **Execute a aplicação com o Streamlit**:
 
